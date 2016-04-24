@@ -40,8 +40,8 @@ public class Main {
 
 	public static void main(String[] argv) {
 
-		System.out.println(Calendar.getInstance().getTime());
-		
+		System.out.println("1,2,3,4".contains(""));
+		System.out.println("1,2,3,4".replaceAll(" ,",""));
 //		String zdanie = "0000567/03";
 //		
 //		
